@@ -1,0 +1,39 @@
+/*FONDO*/
+.fondotitulo1{ 
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 35px; 
+    font-weight: 700; 
+    color: #005677; 
+    background:#C4C4C4 
+}
+.fondotitulo2{ 
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: normal;
+    font-size: 20px; 
+    font-weight: 700; 
+    color: #005677; 
+    background:#C4C4C4 
+}
+.fondotitulo3{ 
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: normal;
+    font-size: 20px; 
+    font-weight: 700; 
+    color: #FFFFFF; 
+    background:#005677
+}
+    /*TITULOS*/
+h1{
+    color: #005677;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+}
+h2{
+    color: #005677 !important;
+    text-align: left;
+}
